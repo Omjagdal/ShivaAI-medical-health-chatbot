@@ -372,5 +372,5 @@ This project was built for the **OM AI Summit** hackathon and enhanced to produc
 ---
 
 <p align="center">
-  Built with ❤️ by <strong>Om Jagdale</strong> | Powered by <strong>Gemini AI</strong> + <strong>LangChain</strong> + <strong>FAISS</strong>
+  Built with  by <strong>Om Jagdale</strong> | Powered by <strong>Gemini AI</strong> + <strong>LangChain</strong> + <strong>FAISS</strong>
 </p>
